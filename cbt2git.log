@@ -1,0 +1,31 @@
+2023-08-06 02:29:12.638344 - Initialized conversion of CBT249
+2023-08-06 02:29:12.984348 - Received CBT.V505.FILE249.PDS from FILE249.XMI 
+2023-08-06 02:29:12.986769 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:29:12.987829 - Found $$DOC.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/$$DOC
+2023-08-06 02:29:12.988829 - Found $$NOTE.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/$$NOTE
+2023-08-06 02:29:12.989784 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/$$NOTE1
+2023-08-06 02:29:12.990679 - Found @FILE249.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/@FILE249
+2023-08-06 02:29:12.991653 - Found CONVCODE.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/CONVCODE
+2023-08-06 02:29:12.992612 - Found ESBA.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/ESBA
+2023-08-06 02:29:13.175036 - Found MACLIB.xmi (application/xmit) in CBT.V505.FILE249.PDS
+2023-08-06 02:29:13.197193   - Received to CBT249/FILE249.MACLIB
+2023-08-06 02:29:13.198212 - Found PRD.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/PRD
+2023-08-06 02:29:13.199114 - Found SETM.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/SETM
+2023-08-06 02:29:13.200119 - Found SVC.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/SVC
+2023-08-06 02:29:13.201033 - Found TSOBAT.jcl (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/TSOBAT
+2023-08-06 02:29:13.201965 - Found UCB.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/UCB
+2023-08-06 02:29:13.202891 - Found UCB$.jcl (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/UCB$
+2023-08-06 02:29:13.203831 - Found UCBOLD.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/UCBOLD
+2023-08-06 02:29:13.204696 - Found UCBSVC.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/UCBSVC
+2023-08-06 02:29:13.205584 - Found UCBSVC$.jcl (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/UCBSVC$
+2023-08-06 02:29:13.206516 - Found WMOD.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMOD
+2023-08-06 02:29:13.207396 - Found WMOD$.jcl (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMOD$
+2023-08-06 02:29:13.208300 - Found WMODCICS.jcl (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMODCICS
+2023-08-06 02:29:13.209191 - Found WMODCIC1.jcl (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMODCIC1
+2023-08-06 02:29:13.210181 - Found WMODCIC2.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMODCIC2
+2023-08-06 02:29:13.211178 - Found WMODTSO.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMODTSO
+2023-08-06 02:29:13.212126 - Found WMODTSO$.jcl (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMODTSO$
+2023-08-06 02:29:13.213033 - Found WMODTSO1.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMODTSO1
+2023-08-06 02:29:13.214030 - Found WMODTSO2.jcl (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMODTSO2
+2023-08-06 02:29:13.215031 - Found WMOD1.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMOD1
+2023-08-06 02:29:13.216032 - Found WMOD2.txt (text/plain) in CBT.V505.FILE249.PDS, moved to PDS/WMOD2
